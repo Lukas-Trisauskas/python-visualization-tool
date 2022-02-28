@@ -1,0 +1,2 @@
+anomaly_scores.npy
+ground_truth.npy
