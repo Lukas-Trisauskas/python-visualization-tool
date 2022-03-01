@@ -2,7 +2,7 @@
 
 > I would recommend creating a virtual environment to seperate packages for each project
 
-Make sure you cd to python-visualization-tool
+Change directory to python-visualization-tool
 ```
 python -m venv venv-pvt
 ```
