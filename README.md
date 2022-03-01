@@ -1,4 +1,4 @@
-#### Setup virtual environment (optional)
+#### 1. Setup virtual environment (optional)
 
 > I would recommend creating a virtual environment to seperate packages for each project
 
@@ -10,7 +10,7 @@ Activate virtual environment
 ```
 venv-pvt\Scripts\activate.bat
 ```
-#### Installing requirements
+#### 2. Installing requirements
 
 Make sure you've activated the virtual environment before installing the requirements
 ```
